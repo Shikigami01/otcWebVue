@@ -1,0 +1,11 @@
+.ly_footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: $footer_height;
+  background-color: $sub_color;
+}
+.ly_footer_inner {
+  font-size: 0.8rem;
+  color: $base_color;
+}

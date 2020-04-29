@@ -1,0 +1,15 @@
+.bl_mainVisualWrap {
+  height: calc(100vh - #{$header_height} - #{$footer_height});
+  height: calc(var(--vh, 1vh) * 100 - #{$header_height} - #{$footer_height});
+}
+.bl_mainVisual {
+  position: absolute;
+  width: calc(100vw - #{$base_margin} * 2);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 350px;
+  max-width: 400px;
+  padding: 0 $base_padding;
+  pointer-events: none;
+}

@@ -8,6 +8,13 @@ ul[class],
 ol[class] {
   padding: 0;
 }
+ul[class] {
+  list-style: none;
+}
+ol[class] {
+  padding-left: 26px;
+  box-sizing: border-box;
+}
 body,
 h1,
 h2,
@@ -28,12 +35,11 @@ body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
 }
-ul[class],
-ol[class] {
-  list-style: none;
-}
 a:not([class]) {
   text-decoration-skip-ink: auto;
+}
+a {
+  text-decoration: none;
 }
 img {
   max-width: 100%;

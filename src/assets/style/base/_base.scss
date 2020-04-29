@@ -1,0 +1,34 @@
+body {
+  min-width: $display_min_width;
+  font-family: fot-tsukubrdgothic-std, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1rem;
+  color: $base_font_color;
+}
+
+.ly_body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: $background_color;
+
+  > header,
+  > main,
+  > footer {
+    min-width: $display_min_width;
+  }
+  > main {
+    flex-grow: 1;
+    padding-top: $header_height;
+    box-sizing: border-box;
+  }
+}
+
+.bl_mainContents {
+  max-width: $contents_max_width;
+  margin: auto;
+  // 変数をサポートしていないブラウザのフォールバック
+  // height: calc(100vh - #{$header_height} - #{$footer_height});
+  // height: calc(var(--vh, 1vh) * 100 - #{$header_height} - #{$footer_height});
+}

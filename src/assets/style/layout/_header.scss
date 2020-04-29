@@ -1,0 +1,64 @@
+.ly_header {
+  position: fixed;
+  height: $header_height;
+  width: 100%;
+  padding: 0 $base_padding;
+  box-sizing: border-box;
+  background-color: $sub_color;
+  z-index: 100;
+}
+.ly_header_inner {
+  max-width: $contents_max_width;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  height: $header_height;
+}
+.bl_header_logo {
+  width: 30px;
+  height: 30px;
+  min-width: 30px;
+  margin: $base_margin;
+  > img {
+    width: inherit;
+    height: inherit;
+  }
+}
+.bl_header_navList {
+  display: flex;
+}
+.bl_header_navListItem {
+  margin: 0 $base_margin;
+  position: relative;
+
+  > a {
+    color: $base_color;
+
+    &:after {
+      @include before_after_base;
+      top: 100%;
+      left: 0;
+      width: 0;
+      height: 2px;
+      background-color: $base_color;
+    }
+    &:hover {
+      &:after {
+        width: 100%;
+        transition: width 200ms;
+      }
+    }
+
+    &.router-link-exact-active {
+      &:after {
+        @include before_after_base;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: $base_color;
+      }
+    }
+  }
+}

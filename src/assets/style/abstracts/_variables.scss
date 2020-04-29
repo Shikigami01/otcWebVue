@@ -1,1 +1,18 @@
+// 基本カラー
+$base_color: #c8c7cc;
+$sub_color: #3a3b33;
+$background_color: #fbfbfb;
+$base_font_color: #040000;
+// margin, padding
 $base_margin: 8px;
+$base_padding: 8px;
+//header, footer の高さ
+$header_height: 50px;
+$footer_height: 20px;
+// 最小横幅
+$display_min_width: 375px;
+// コンテンツの最大幅
+$contents_max_width: 1000px;
+// t! メディアクエリ
+$tablet_width: 480px;
+$pc_width: 960px;

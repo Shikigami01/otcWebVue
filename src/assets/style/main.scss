@@ -2,4 +2,9 @@
 
 // 実態を生成するscssをimport
 @import "./base/reset";
+@import "./base/base";
 @import "./layout/header";
+@import "./layout/home";
+@import "./layout/about";
+@import "./layout/work";
+@import "./layout/footer";

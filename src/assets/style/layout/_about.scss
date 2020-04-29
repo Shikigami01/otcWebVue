@@ -1,0 +1,30 @@
+.bl_info {
+  // max-width: 540px;
+  margin: 0 $base_margin;
+  .bl_info_title {
+    margin: $base_margin * 2 auto $base_margin;
+    border-bottom: solid 2px $base_font_color;
+  }
+
+  .bl_iconList {
+    display: flex;
+    justify-content: flex-start;
+
+    > .bl_iconList_twitter,
+    > .bl_iconList_soundcloud,
+    > .bl_iconList_github {
+      width: 48px;
+      height: 48px;
+      margin-right: $base_margin;
+
+      > a {
+        width: 100%;
+        height: 100%;
+
+        > img {
+          width: 100%;
+        }
+      }
+    }
+  }
+}

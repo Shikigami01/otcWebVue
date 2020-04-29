@@ -1,0 +1,80 @@
+{
+  "work1": {
+    "modelNumber": "otc_0014",
+    "imageName": "0014",
+    "releaseDate": "2019/11",
+    "title": "異世界の秘密を曝くのはもう懲り懲りだよ〜!!!",
+    "trackList": {
+      "1": {
+        "trackName": "ふたりの",
+        "isOriginalSongFlag": true,
+        "originalSongName": "他愛も無い二人の博物誌"
+      },
+      "2": {
+        "trackName": "むかしむかし",
+        "isOriginalSongFlag": true,
+        "originalSongName": "童祭 ～ Innocent Treasures"
+      },
+      "3": {
+        "trackName": "おおぞら",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      "4": {
+        "trackName": "ふたりで",
+        "isOriginalSongFlag": true,
+        "originalSongName": "少女秘封倶楽部"
+      },
+      "5": {
+        "trackName": "よる",
+        "isOriginalSongFlag": true,
+        "originalSongName": "夜のデンデラ野を逝く"
+      },
+      "6": {
+        "trackName": "かふぇ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "衛星カフェテラス"
+      },
+      "7": {
+        "trackName": "め",
+        "isOriginalSongFlag": true,
+        "originalSongName": "Dr.レイテンシーの眠れなくなる瞳"
+      },
+      "8": {
+        "trackName": "びょういん",
+        "isOriginalSongFlag": true,
+        "originalSongName": "緑のサナトリウム"
+      },
+      "9": {
+        "trackName": "はこねこ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "シュレディンガーの化猫"
+      },
+      "10": {
+        "trackName": "ばけねこ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "遠野幻想物語"
+      },
+      "11": {
+        "trackName": "でんしゃ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "ヒロシゲ36号 ～ Neo Super-Express"
+      },
+      "12": {
+        "trackName": "べべれけ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "二日酔いの同床異夢"
+      },
+      "13": {
+        "trackName": "じょうき",
+        "isOriginalSongFlag": true,
+        "originalSongName": "悠久の蒸気機関"
+      },
+      "14": {
+        "trackName": "というお話",
+        "isOriginalSongFlag": true,
+        "originalSongName": "日本中の不思議を集めて"
+      }
+    }
+  }
+}

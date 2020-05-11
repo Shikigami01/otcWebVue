@@ -6,20 +6,17 @@
         :key="workListDetail.id"
         class="bl_mediaListItem"
       >
+        <!-- image 表示 -->
         <div class="bl_media_imgWrapper">
           <img
             v-bind:src="workListDetail.imageName"
             v-bind:alt="workListDetail.id"
           />
         </div>
+        <!-- <button v-on:click="modalOpen(workListDetail)">aaaa</button> -->
 
-        <!-- モーダルウィンドウで表示した方がいいか、別ページ遷移がいいか悩み中。 -->
-        <!-- 個人的にはモーダルにしたい。プルリク頼む〜〜〜 -->
-        <div class="bl_media_overlayText">
-          <p>
-            More...
-          </p>
-        </div>
+        <!-- modal -->
+        <modal v-bind="postItem" v-show="showContent" v-on:close="modalClose" />
       </li>
     </ul>
   </section>
@@ -27,11 +24,24 @@
 
 <script>
 import workList from './../assets/workList.json'
+import Modal from './parts/Modal.vue'
 
 export default {
+  components: {
+    Modal
+  },
   data () {
     return {
       workList: workList
+    }
+  },
+  methods: {
+    modalOpen (workListDetail) {
+      this.showContent = true
+      this.postItem = workListDetail
+    },
+    modalClose () {
+      this.showContent = false
     }
   }
 }

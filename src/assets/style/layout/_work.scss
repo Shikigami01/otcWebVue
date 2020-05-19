@@ -48,32 +48,9 @@
   }
 }
 
-// .bl_media_overlayText {
-//   position: absolute;
-//   top: 0;
-//   left: 0;
-//   width: 100%;
-//   height: 100%;
-//   display: flex;
-//   flex-wrap: wrap-reverse;
-//   justify-content: center;
-//   align-items: center;
-//   background-color: rgba(0, 0, 0, 0.6);
-//   color: white;
-//   opacity: 0;
-//   > p {
-//     font-size: 120%;
-//     pointer-events: none;
-//   }
-//   &:hover {
-//     opacity: 1;
-//     transition: opacity 200ms;
-//   }
-// }
-
 // モーダル用のスタイル
 .ly_overlay {
-  z-index: 1;
+  z-index: 1000;
 
   // 画面全体を覆う設定
   position: fixed;
@@ -81,6 +58,7 @@
   left: 0;
   width: 100vw;
   height: 100vh;
+  min-width: $display_min_width;
   background-color: rgba(0, 0, 0, 0.6);
 
   // 画面の中央に要素を表示させる設定
@@ -90,8 +68,50 @@
 }
 
 .ly_modalContent {
-  z-index: 2;
-  width: 50%;
-  padding: 1em;
-  background: #fff;
+  z-index: 2000;
+  width: 90vw;
+  height: 92vh;
+  min-width: 337px;
+  max-width: 550px;
+  padding: $base_padding * 2;
+  background: $background_color;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  border-radius: 4px;
+}
+
+.bl_modalContent_title {
+  margin: auto;
+  border-bottom: solid 2px #040000;
+}
+
+.bl_modalContent {
+  margin: $base_margin auto;
+}
+
+.bl_modalContent_image {
+  max-width: 300px;
+  margin: auto;
+  > img {
+    margin: auto;
+    max-width: calc(100% - #{$base_margin});
+  }
+}
+
+.bl_modalContent_body {
+  margin: $base_margin $base_margin 0 0;
+}
+
+.bl_buttonModalClose {
+  display: block;
+  margin: auto;
+  padding: $base_padding / 2 $base_padding * 4;
+  text-decoration: none;
+  color: $sub_color;
+  border: solid 2px $sub_color;
+  border-radius: 3px;
+  transition: 400ms;
+  &:hover {
+    background: $sub_color;
+    color: $background_color;
+  }
 }

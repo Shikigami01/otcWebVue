@@ -11,14 +11,16 @@
           <img
             v-bind:src="workListDetail.imageName"
             v-bind:alt="workListDetail.id"
+            @click="modalOpen(workListDetail)"
           />
         </div>
-        <!-- <button v-on:click="modalOpen(workListDetail)">aaaa</button> -->
-
-        <!-- modal -->
-        <modal v-bind="postItem" v-show="showContent" v-on:close="modalClose" />
       </li>
     </ul>
+
+    <!-- modal -->
+    <transition>
+      <modal :val="postItem" v-show="showContent" @close="modalClose" />
+    </transition>
   </section>
 </template>
 
@@ -32,7 +34,9 @@ export default {
   },
   data () {
     return {
-      workList: workList
+      showContent: false,
+      workList: workList,
+      postItem: ''
     }
   },
   methods: {
@@ -46,3 +50,16 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+// modal表示の時のアニメーション
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 200ms ease-out;
+}
+
+.v-enter,
+.v-leave-to {
+  opacity: 0;
+}
+</style>

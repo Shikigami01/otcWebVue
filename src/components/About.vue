@@ -37,11 +37,6 @@
             <img src="./../assets/image/icon_soundcloud.svg" alt="soundcloud" />
           </a>
         </div>
-        <div class="bl_iconList_github">
-          <a href="https://github.com/Shikigami01">
-            <img src="./../assets/image/icon_github.svg" alt="github" />
-          </a>
-        </div>
       </div>
     </div>
   </section>

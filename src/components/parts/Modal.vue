@@ -1,5 +1,6 @@
 <template>
   <div id="overlay" class="ly_overlay">
+    <div class="ly_overlayColse" @click="$emit('close')"></div>
     <div ref="content" id="content" class="ly_modalContent">
       <h3 name="TITLE" ref="title" class="bl_modalContent_title">
         {{ val.title }}
@@ -11,6 +12,16 @@
       >
         <div class="bl_modalContent_image">
           <img v-bind:src="val.imageName" v-bind:alt="val.id" />
+        </div>
+        <div class="bl_buttonListenLinkWrap">
+          <a
+            :href="val.listenLink"
+            v-if="val.isListenLinkFlag === true"
+            class="bl_buttonListenLink"
+            target="_blank"
+          >
+            視聴はこちらから
+          </a>
         </div>
         <div class="bl_modalContent_body">
           <ol class="bl_modalContent_list">

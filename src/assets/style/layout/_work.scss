@@ -66,6 +66,14 @@
   align-items: center;
   justify-content: center;
 }
+.ly_overlayColse {
+  z-index: 1001;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 
 .ly_modalContent {
   z-index: 2000;
@@ -103,6 +111,26 @@
 
 .bl_buttonModalClose {
   display: block;
+  margin: auto;
+  padding: $base_padding / 2 $base_padding * 4;
+  text-decoration: none;
+  color: $sub_color;
+  border: solid 2px $sub_color;
+  background: $background_color;
+  border-radius: 3px;
+  transition: 400ms;
+  cursor: pointer;
+  &:hover {
+    background: $sub_color;
+    color: $background_color;
+  }
+}
+.bl_buttonListenLinkWrap {
+  display: flex;
+  align-items: center;
+  margin-top: $base_margin;
+}
+.bl_buttonListenLink {
   margin: auto;
   padding: $base_padding / 2 $base_padding * 4;
   text-decoration: none;

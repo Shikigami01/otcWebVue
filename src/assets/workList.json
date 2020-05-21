@@ -5,6 +5,8 @@
     "imageName": "/image/artwork/0014.jpg",
     "releaseDate": "2019/11",
     "title": "異世界の秘密を曝くのはもう懲り懲りだよ〜!!!",
+    "listenLink": "https://soundcloud.com/shikigami01/xfd-2",
+    "isListenLinkFlag": true,
     "trackList": [
       {
         "trackName": "ふたりの",
@@ -84,11 +86,38 @@
     "imageName": "/image/artwork/0013.jpg",
     "releaseDate": "2019/08",
     "title": "Little Sun",
+    "listenLink": "https://soundcloud.com/shikigami01/c96little-sun",
+    "isListenLinkFlag": true,
     "trackList": [
       {
-        "trackName": "",
+        "trackName": "8/16",
         "isOriginalSongFlag": true,
-        "originalSongName": ""
+        "originalSongName": "幽夢 ～ Inanimate Dream"
+      },
+      {
+        "trackName": "188",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "SunLights",
+        "isOriginalSongFlag": true,
+        "originalSongName": "今昔幻想郷 ～ Flower Land"
+      },
+      {
+        "trackName": "賽の河原でボウリング",
+        "isOriginalSongFlag": true,
+        "originalSongName": "彼岸帰航 ～ Riverside View"
+      },
+      {
+        "trackName": "縁日を往く",
+        "isOriginalSongFlag": true,
+        "originalSongName": "旧地獄街道を行く"
+      },
+      {
+        "trackName": "地と月の１週間",
+        "isOriginalSongFlag": true,
+        "originalSongName": "ピュアヒューリーズ ～ 心の在処"
       }
     ]
   },
@@ -98,11 +127,33 @@
     "imageName": "/image/artwork/0012.jpg",
     "releaseDate": "2018/11",
     "title": "GALLERY",
+    "listenLink": "https://soundcloud.com/shikigami01/gallerxfd",
+    "isListenLinkFlag": true,
     "trackList": [
       {
-        "trackName": "",
+        "trackName": "ひみつのふたり",
         "isOriginalSongFlag": true,
-        "originalSongName": ""
+        "originalSongName": "少女秘封倶楽部"
+      },
+      {
+        "trackName": "じかんのおわり",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "あぶないおさけ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "アウトサイダーカクテル"
+      },
+      {
+        "trackName": "ちかにふくかぜ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "アガルタの風"
+      },
+      {
+        "trackName": "ふるいおきもの",
+        "isOriginalSongFlag": true,
+        "originalSongName": "イザナギオブジェクト"
       }
     ]
   },
@@ -112,11 +163,441 @@
     "imageName": "/image/artwork/0011.jpg",
     "releaseDate": "2017/12",
     "title": "GIRL und PANZERS",
+    "listenLink": "https://soundcloud.com/shikigami01/xfdgirl-und-panzersc93",
+    "isListenLinkFlag": true,
     "trackList": [
       {
-        "trackName": "",
+        "trackName": "She's In A Houser!!",
         "isOriginalSongFlag": true,
-        "originalSongName": ""
+        "originalSongName": "She's in a temper!!"
+      },
+      {
+        "trackName": "for Lunatic Gamers",
+        "isOriginalSongFlag": true,
+        "originalSongName": "She's in a temper!!, 戦車むすめのみるゆめ, エキストララブ, 東方封魔録 ～ 幽幻乱舞"
+      },
+      {
+        "trackName": "Rust",
+        "isOriginalSongFlag": true,
+        "originalSongName": "She's in a temper!!"
+      },
+      {
+        "trackName": "Der einzig Traum",
+        "isOriginalSongFlag": true,
+        "originalSongName": "She's in a temper!!, 戦車むすめのみるゆめ"
+      },
+      {
+        "trackName": "風と共に流れtemper!!",
+        "isOriginalSongFlag": true,
+        "originalSongName": "She's in a temper!!"
+      },
+      {
+        "trackName": "Happy Recovering ?",
+        "isOriginalSongFlag": true,
+        "originalSongName": "She's in a temper!!"
+      },
+      {
+        "trackName": "Creator",
+        "isOriginalSongFlag": true,
+        "originalSongName": "戦車むすめのみるゆめ"
+      },
+      {
+        "trackName": "8ぴこ戦車",
+        "isOriginalSongFlag": true,
+        "originalSongName": "She's in a temper!!"
+      },
+      {
+        "trackName": "Workshop at 3 a.m.",
+        "isOriginalSongFlag": true,
+        "originalSongName": "戦車むすめのみるゆめ"
+      }
+    ]
+  },
+  {
+    "id": "0010",
+    "modelNumber": "otc_0010",
+    "imageName": "/image/artwork/0010.jpg",
+    "releaseDate": "2017/05",
+    "title": "GAME GIRLS",
+    "listenLink": "https://soundcloud.com/shikigami01/17gamegirlsxfd",
+    "isListenLinkFlag": true,
+    "trackList": [
+      {
+        "trackName": "X3 Eyes",
+        "isOriginalSongFlag": true,
+        "originalSongName": "少女さとり ～ 3rd eye"
+      },
+      {
+        "trackName": "In Her Heart",
+        "isOriginalSongFlag": true,
+        "originalSongName": "ハルトマンの妖怪少女"
+      },
+      {
+        "trackName": "Bad Cat",
+        "isOriginalSongFlag": true,
+        "originalSongName": "死体旅行 ～ Be of good cheer!"
+      },
+      {
+        "trackName": "Hell's Sun",
+        "isOriginalSongFlag": true,
+        "originalSongName": "霊知の太陽信仰 ～ Nuclear Fusion"
+      }
+    ]
+  },
+  {
+    "id": "0009",
+    "modelNumber": "otc_0009",
+    "imageName": "/image/artwork/0009.jpg",
+    "releaseDate": "2017/03",
+    "title": "秘封病特効薬おかわり",
+    "listenLink": "",
+    "isListenLinkFlag": false,
+    "trackList": [
+      {
+        "trackName": "め",
+        "isOriginalSongFlag": true,
+        "originalSongName": "Dr.レイテンシーの眠れなくなる瞳"
+      },
+      {
+        "trackName": "でんしゃ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "ヒロシゲ36号 ~ Neo Super-Express"
+      },
+      {
+        "trackName": "かふぇ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "衛星カフェテラス"
+      },
+      {
+        "trackName": "びょういん",
+        "isOriginalSongFlag": true,
+        "originalSongName": "緑のサナトリウム"
+      },
+      {
+        "trackName": "じょうき",
+        "isOriginalSongFlag": true,
+        "originalSongName": "悠久の蒸気機関"
+      }
+    ]
+  },
+  {
+    "id": "0008",
+    "modelNumber": "otc_0008",
+    "imageName": "/image/artwork/0008.jpg",
+    "releaseDate": "2016/11",
+    "title": "秘封病特効薬",
+    "listenLink": "",
+    "isListenLinkFlag": false,
+    "trackList": [
+      {
+        "trackName": "ふたりの",
+        "isOriginalSongFlag": true,
+        "originalSongName": "他愛も無い二人の博物誌"
+      },
+      {
+        "trackName": "ふたりで",
+        "isOriginalSongFlag": true,
+        "originalSongName": "少女秘封倶楽部"
+      },
+      {
+        "trackName": "ばけねこ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "遠野幻想物"
+      },
+      {
+        "trackName": "はこねこ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "シュレディンガーの化猫"
+      },
+      {
+        "trackName": "おおぞら",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "べべれけ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "二日酔いの同床異夢"
+      }
+    ]
+  },
+  {
+    "id": "0007",
+    "modelNumber": "otc_0007",
+    "imageName": "/image/artwork/0007.jpg",
+    "releaseDate": "2016/05",
+    "title": "Tonight Seiga",
+    "listenLink": "https://soundcloud.com/shikigami01/cdtonight-seiga-disk113",
+    "isListenLinkFlag": true,
+    "trackList": [
+      {
+        "trackName": "欲の果実",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "D",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "Desire Vortex",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "FEEL FOR SUPER DETH+AIR!!",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "なすがまま。",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "Fallen star",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "西方デザイア",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "a bit of desires",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "Doomsday Desire",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "refrain",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "スピードデザイア！",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "壁抜けダンスホール",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "でざいあﾋﾟｺﾋﾟｺちっぷちゅーん",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "runaway",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "Fly",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "The bravado",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "Funky Drive Night",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "デザイアドライブ-motif little cry monster mix-",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "霊界ダンスフロア",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "Xoss Drive",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      },
+      {
+        "trackName": "Driving!!",
+        "isOriginalSongFlag": true,
+        "originalSongName": "デザイアドライブ"
+      }
+    ]
+  },
+  {
+    "id": "0006",
+    "modelNumber": "otc_0006",
+    "imageName": "/image/artwork/0006.jpg",
+    "releaseDate": "2015/11",
+    "title": "swing for PLAY GIRLS",
+    "listenLink": "https://soundcloud.com/shikigami01/5swing_for_playgirlsxfd",
+    "isListenLinkFlag": true,
+    "trackList": [
+      {
+        "trackName": "Folie & Lie",
+        "isOriginalSongFlag": true,
+        "originalSongName": "蓬莱伝説"
+      },
+      {
+        "trackName": "Dive into the Night",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "Afternoon Tea",
+        "isOriginalSongFlag": true,
+        "originalSongName": "衛星カフェテラス"
+      },
+      {
+        "trackName": "Moon Down Trip",
+        "isOriginalSongFlag": true,
+        "originalSongName": "月面ツアーへようこそ"
+      },
+      {
+        "trackName": "Blue Sky Blue Sea",
+        "isOriginalSongFlag": true,
+        "originalSongName": "最も澄みわたる空と海"
+      }
+    ]
+  },
+  {
+    "id": "0005",
+    "modelNumber": "otc_0005",
+    "imageName": "/image/artwork/0005.jpg",
+    "releaseDate": "2015/05",
+    "title": "肉",
+    "listenLink": "https://soundcloud.com/shikigami01/xfd-1",
+    "isListenLinkFlag": true,
+    "trackList": [
+      {
+        "trackName": "ぼんじり",
+        "isOriginalSongFlag": true,
+        "originalSongName": "霊知の太陽信仰 ～ Nuclear Fusion"
+      },
+      {
+        "trackName": "兎もも肉",
+        "isOriginalSongFlag": true,
+        "originalSongName": "シンデレラケージ ～ Kagome-Kagome"
+      },
+      {
+        "trackName": "すなずり",
+        "isOriginalSongFlag": true,
+        "originalSongName": "夜雀の歌声 ～ Night Bird"
+      },
+      {
+        "trackName": "兎むね肉",
+        "isOriginalSongFlag": true,
+        "originalSongName": "狂気の瞳 ～ Invisible Full Moon"
+      },
+      {
+        "trackName": "鳥もも肉",
+        "isOriginalSongFlag": true,
+        "originalSongName": "無間の鐘 ～ Infinite Nightmare"
+      }
+    ]
+  },
+  {
+    "id": "0004",
+    "modelNumber": "otc_0004",
+    "imageName": "/image/artwork/0004.jpg",
+    "releaseDate": "2015/02",
+    "title": "赤の妹",
+    "listenLink": "https://soundcloud.com/shikigami01/xfd",
+    "isListenLinkFlag": true,
+    "trackList": [
+      {
+        "trackName": "緋の門番",
+        "isOriginalSongFlag": true,
+        "originalSongName": "上海紅茶館 ~ Chinese Tea + α"
+      },
+      {
+        "trackName": "赫の祭り",
+        "isOriginalSongFlag": true,
+        "originalSongName": "魔法少女達の百年祭 + α"
+      },
+      {
+        "trackName": "紅の嬢",
+        "isOriginalSongFlag": true,
+        "originalSongName": "亡き王女の為のセプテット"
+      },
+      {
+        "trackName": "朱の従者",
+        "isOriginalSongFlag": true,
+        "originalSongName": "フラワリングナイト"
+      },
+      {
+        "trackName": "赤の妹",
+        "isOriginalSongFlag": true,
+        "originalSongName": "U.N.オーエンは彼女なのか？"
+      }
+    ]
+  },
+  {
+    "id": "0003",
+    "modelNumber": "otc_0003",
+    "imageName": "/image/artwork/0003.jpg",
+    "releaseDate": "2014/11",
+    "title": "Greenwich in the Sky",
+    "listenLink": "https://soundcloud.com/shikigami01/greenwich-in-the-sky-xfd",
+    "isListenLinkFlag": true,
+    "trackList": [
+      {
+        "trackName": "天空のグリニッジ ～ Aerial midnight walk",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "Creation of Heaven and Greenwich",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "Duet at the observatory",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "Royal Observatory Rocking",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "メリーズパンツ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "スターライト・オブザーバトリー",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "night lounge'ナイトラウンジ'",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "IronWall",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
+      },
+      {
+        "trackName": "夜へトぶ",
+        "isOriginalSongFlag": true,
+        "originalSongName": "天空のグリニッジ"
       }
     ]
   }

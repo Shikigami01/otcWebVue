@@ -6,6 +6,6 @@ module.exports = {
       }
     }
   },
-  baseUrl: './', // これ設定しないとビルドした時に画面が真っ白になる
+  publicPath: './', // これ設定しないとビルドした時に画面が真っ白になる
   productionSourceMap: true // mapファイルの生成有無
 }

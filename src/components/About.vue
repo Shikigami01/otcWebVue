@@ -5,7 +5,7 @@
         About
       </h1>
       <p class="bl_info_text">
-        ChipruneとFuture bassをメインに作る音楽同人サークルです。
+        ChiptuneとFuture bassをメインに作る音楽同人サークルです。
       </p>
       <p class="bl_info_text">
         東方Projectとアイカツ！のアレンジをメインに活動しています。

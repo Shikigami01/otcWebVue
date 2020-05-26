@@ -6,7 +6,7 @@
 
 ## サイト URL
 
-[ここから](http://overthecoffee.main.jp) アクセスしてね。
+[ここから](https://overthecoffee.net) アクセスしてね。
 
 <!-- ## Project setup
 

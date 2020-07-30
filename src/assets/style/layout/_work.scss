@@ -21,9 +21,13 @@
 .bl_media_imgWrapper {
   width: 100%;
 
+  > img {
+    cursor: pointer;
+  }
+
   &:before {
     @include before_after_base;
-    content: "More...";
+    content: 'More...';
     top: 0;
     left: 0;
     width: 100%;
@@ -78,7 +82,7 @@
 .ly_modalContent {
   z-index: 2000;
   width: 90vw;
-  height: 92vh;
+  height: 86vh;
   min-width: 337px;
   max-width: 550px;
   padding: $base_padding * 2;
